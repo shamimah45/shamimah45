@@ -32,21 +32,27 @@ For me, code doesn't have to feel cold — it can be **precise *and* pretty**.
 
 **The foundations**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,java,git,github,vscode&theme=dark" alt="foundations"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,c,php,mysql,git,github,vscode&theme=dark" alt="foundations"/>
 
 <br/><br/>
 
-**Learning by building** ✦ *picking these up project after project*
+**From my end-of-year project** ✦ *PHP Slim & Vue.js*
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vue&theme=dark" alt="learning"/>
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="project stack"/>
+
+`PHP Slim` · `Vue.js` · `SQL Server`
+
+<br/><br/>
+
+**Learning** ✦ *picking these up little by little*
+
+<img src="https://skillicons.dev/icons?i=cpp,java,tailwind,bootstrap&theme=dark" alt="learning"/>
+
+`C++` · `Java` · `Object-Oriented Programming` · `Tailwind CSS` · `Bootstrap 5`
 
 <br/>
 
-`PHP Slim` · `Tailwind CSS` · `Bootstrap 5` · `Vue.js` · `SQL Server`
-
-<br/>
-
-`Object-Oriented Programming` · `Web Development` · `REST APIs` · `Machine Learning`
+`Web Development` · `REST APIs` · `Machine Learning`
 
 </div>
 
@@ -61,7 +67,7 @@ For me, code doesn't have to feel cold — it can be **precise *and* pretty**.
 
 **Connecticut Co Ltd** · IT company, Vacoas, Mauritius
 
-Online internship through my university (last academic year), working in a six-person intern team on a PHP/MySQL web application. I led the team during the first week: coordinating the group and writing the requirements and planning documents.
+Online internship through my university (last academic year), working in a six-person intern team on a PHP/MySQL membership management web application. I led the team during the first week: coordinating the group and writing the requirements and planning documents. A real lesson in remote teamwork and scoping a complex spec.
 
 </td>
 </tr>
@@ -87,34 +93,12 @@ End-of-year project (L2): a web platform for students' physical and mental well-
 </td>
 <td width="50%" valign="top">
 
-### 🗂 Projet Adhésion
-*Membership management web app*
-
-Team project from my internship last academic year, built with **PHP · MySQL · Bootstrap 5** on XAMPP, with three roles: admin, staff and member. Left unfinished — but a real lesson in remote teamwork and scoping a complex spec.
-
-![status](https://img.shields.io/badge/status-unfinished_·_lessons_learned-3a2229?style=flat-square&labelColor=1a1517)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏥 Santé+
 *Clinic management system*
 
 Academic project: requirements specification (cahier des charges) and use case diagram for a clinic management system.
 
 ![status](https://img.shields.io/badge/status-in_progress-f4cbd3?style=flat-square&labelColor=1a1517)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Next
-*More projects coming*
-
-Every project teaches me something new — they'll land here as they grow.
-
-![status](https://img.shields.io/badge/soon-1a1517?style=flat-square&labelColor=1a1517&color=3a2229)
 
 </td>
 </tr>
@@ -138,7 +122,7 @@ Every project teaches me something new — they'll land here as they grow.
 > FUN MOOC ................................. in progress
 > CTF challenges ........................... in progress
 > Tailwind CSS & Bootstrap ................. little by little
-> learning JavaScript ...................... in progress
+> C++, Java & object-oriented prog. ...... in progress
 > exploring Machine Learning ............... in progress
 > discovering Cloud ........................ in progress
 > understanding Cybersecurity .............. in progress
